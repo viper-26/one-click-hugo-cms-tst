@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://app.bond.tech/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "app.bond.tech"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
